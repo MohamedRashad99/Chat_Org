@@ -1,6 +1,6 @@
 # chat
 
-A new Flutter application.
+Chat app with all feauters like notification  & Autentication & Cloud to store Data 
 
 ## Getting Started
 
